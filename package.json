@@ -1,0 +1,41 @@
+{
+  "name": "acb-api-client",
+  "version": "0.1.0",
+  "description": "Unofficial ACB (Asia Commercial Bank) API client for Node.js",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node examples/server.js",
+    "dev": "node --watch examples/server.js",
+    "test": "node --test test/*.test.js"
+  },
+  "keywords": [
+    "acb",
+    "banking",
+    "api",
+    "vietnam",
+    "transactions"
+  ],
+  "author": "Makky",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.0",
+    "express": "^4.18.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m4kky/acb-api-node"
+  },
+  "homepage": "https://github.com/m4kky/acb-api-node#readme",
+  "bugs": {
+    "url": "https://github.com/m4kky/acb-api-node/issues"
+  }
+}
