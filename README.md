@@ -99,7 +99,7 @@ DEBUG=false
     {
       "accountNumber": "19527581",
       "accountDescription": "TKTT FIRST KHTN (CN) VND",
-      "ownerName": "VU XUAN PHONG",
+      "ownerName": "NGUYEN VAN A",
       "currency": "VND",
       "balance": 10028.0,
       "totalBalance": 10028.0,
@@ -118,7 +118,7 @@ DEBUG=false
     {
       "amount": 10000.0,
       "type": "IN",
-      "description": "VU XUAN PHONG chuyen tien...",
+      "description": "NGUYEN VAN A chuyen tien...",
       "currency": "VND",
       "postingDate": 1774803600000
     }
